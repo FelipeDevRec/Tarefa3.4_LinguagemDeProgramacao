@@ -1,0 +1,14 @@
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\estruturado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\estruturado.AssemblyInfoInputs.cache
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\estruturado.AssemblyInfo.cs
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\estruturado.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\bin\Debug\net8.0\estruturado.exe
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\bin\Debug\net8.0\estruturado.deps.json
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\bin\Debug\net8.0\estruturado.runtimeconfig.json
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\bin\Debug\net8.0\estruturado.dll
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\bin\Debug\net8.0\estruturado.pdb
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\estruturado.dll
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\refint\estruturado.dll
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\estruturado.pdb
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\estruturado.genruntimeconfig.cache
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\estruturado\obj\Debug\net8.0\ref\estruturado.dll

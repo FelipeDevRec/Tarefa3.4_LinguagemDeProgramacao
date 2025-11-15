@@ -1,0 +1,14 @@
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\bin\Debug\net8.0\oop.exe
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\bin\Debug\net8.0\oop.deps.json
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\bin\Debug\net8.0\oop.runtimeconfig.json
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\bin\Debug\net8.0\oop.dll
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\bin\Debug\net8.0\oop.pdb
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\oop.AssemblyInfoInputs.cache
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\oop.AssemblyInfo.cs
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\oop.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\oop.dll
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\refint\oop.dll
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\oop.pdb
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
+C:\Users\Felipe Alves\Documents\JalaUniversity\Liguagens de Programacao\Semana 3\atividade_3_4\atividade_3_4\csharp\oop\obj\Debug\net8.0\ref\oop.dll
